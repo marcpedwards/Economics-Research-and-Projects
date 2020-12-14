@@ -1,4 +1,4 @@
-# Economics-Reserach-and-Projects
+# Economics-Research-and-Projects
 
 Some of the work and research I have done and contributed to in the last couple years at Carnegie Mellon. 
 
